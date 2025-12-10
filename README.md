@@ -1,5 +1,7 @@
 # I18N
 
+A Go internationalization library that provides template integration and message extraction capabilities. This library offers a simple way to add i18n support to Go applications using Go templates, with automatic message extraction and integration with Go's standard `golang.org/x/text` package.
+
 ## Installation
 
 ```bash
