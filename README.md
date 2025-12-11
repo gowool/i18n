@@ -13,7 +13,7 @@ A Go internationalization library that provides template integration and message
 go get github.com/gowool/i18n
 
 # install tool
-go get -tool github.com/gowool/i18n
+go get -tool github.com/gowool/i18n/cmd/i18n
 go get -tool golang.org/x/text/cmd/gotext
 ```
 
