@@ -1,5 +1,10 @@
 # I18N
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/gowool/i18n.svg)](https://pkg.go.dev/github.com/gowool/i18n)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gowool/i18n)](https://goreportcard.com/report/github.com/gowool/i18n)
+[![codecov](https://codecov.io/github/gowool/i18n/graph/badge.svg?token=JJX69WTRMH)](https://codecov.io/github/gowool/i18n)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gowool/i18n/blob/main/LICENSE)
+
 A Go internationalization library that provides template integration and message extraction capabilities. This library offers a simple way to add i18n support to Go applications using Go templates, with automatic message extraction and integration with Go's standard `golang.org/x/text` package.
 
 ## Installation
